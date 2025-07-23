@@ -1,8 +1,8 @@
 export default function Home() {
   return (
-    <div style={{ textAlign: 'center', marginTop: '100px' }}>
+    <main style={{ textAlign: 'center', paddingTop: '100px' }}>
       <h1>🚀 Welcome to WACEwise</h1>
-      <p>Your site is working!</p>
-    </div>
+      <p>Your deployment is now working!</p>
+    </main>
   );
 }
